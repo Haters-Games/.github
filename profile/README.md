@@ -4,6 +4,6 @@
 Наши котятки:
 * [ITHaron](https://github.com/ITHaron)
 * [ITDarkUFO](https://github.com/ITDarkUFO)
-* [MsGalch] (https://github.com/MsGalch)
+* [MsGalch](https://github.com/MsGalch)
 
 Пытаемся пилить игры.
